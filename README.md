@@ -1,7 +1,7 @@
 # nuxeo-web-ui-override-element-redefine-bundled
 ## About / Synopsis
 
-This plugin demonstrates how to implement a new service that produces an event named `nuxeoPlatformStarted` when the **Nuxeo Platform** is started. This allows you to e.g. define an **event handler** that is triggered by the event when the **Nuxeo Platform** is up and running.
+This plugin contains the `redefine-bundled.js` that allows to overwrite Web UI elements.
 
 It was generated with the following commands:
 ```
